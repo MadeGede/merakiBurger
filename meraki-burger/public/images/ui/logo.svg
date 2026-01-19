@@ -1,0 +1,39 @@
+<svg
+  width="360"
+  height="360"
+  viewBox="0 0 360 360"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Left Pillar -->
+  <path
+    d="M90 260 L140 100 L165 100 L115 260 Z"
+    fill="#A58C6B"
+  />
+
+  <!-- Right Pillar -->
+  <path
+    d="M245 260 L195 100 L220 100 L270 260 Z"
+    fill="#A58C6B"
+  />
+
+  <!-- Inner Soul -->
+  <circle
+    cx="180"
+    cy="190"
+    r="12"
+    fill="#D6C3A3"
+  />
+
+  <!-- Brand Name -->
+  <text
+    x="180"
+    y="320"
+    text-anchor="middle"
+    font-size="34"
+    letter-spacing="12"
+    fill="#A58C6B"
+    font-family="Georgia, serif"
+  >
+    MERAKI
+  </text>
+</svg>
